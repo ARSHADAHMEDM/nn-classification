@@ -187,17 +187,17 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://user-images.githubusercontent.com/114344373/192345873-eb16e89f-892a-426d-8f2b-b2096490615d.png)
+![alt text](<Screenshot 2024-03-23 164924.png>)
 
 
 ### Classification Report
 
-![image](https://user-images.githubusercontent.com/114344373/192346038-518fbe61-d01b-4149-8152-fc724f84d73d.png)
+![alt text](<Screenshot 2024-03-23 164857.png>)
 
 
 ### Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/114344373/192346171-48ac1ed4-9612-40d9-aaa3-bf81b840febd.png)
+![alt text](<Screenshot 2024-03-23 164838.png>)
 
 
 
